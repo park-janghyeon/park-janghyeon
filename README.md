@@ -23,7 +23,7 @@
 ## 프로젝트 포트폴리오
 
 - [사내 ERP 웹페이지](https://www.notion.so/a37d0be2ca1e4c2aa14dc93e1c84b0a8?pvs=21) - 풀스택(장고,부트스트랩, html, css, js)으로 참여, 사내 ERP 웹페이지 외주 프로젝트. (23.07.10~ing)
-- [생성형 AI 동화 공모전대회](https://www.notion.so/gpt-b063c7bcc0e341eab6460b0e7b2d0701?pvs=21) - midjourney와 chatgpt 프롬프트 활용하여 동화 창작 공모전 참여. (23.06.3~23.07.14)
+- [생성형 AI 동화 공모전대회](https://lace-fruitadens-568.notion.site/AI-f2c71104b3f64160b3034c2204efc252?pvs=4) - midjourney와 chatgpt 프롬프트 활용하여 동화 창작 공모전 참여. (23.06.3~23.07.14)
   
 ## 최근 단체 스터디 기록
 
