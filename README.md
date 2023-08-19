@@ -42,8 +42,8 @@
 - 이메일: [p572538@gmail.com](mailto:p572538@gmail.com)
 
 ### 📝 백준 문제 풀이 기록
+![백준 문제 풀이 기록](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongbab)
 
-http://mazassumnida.wtf/api/v2/generate_badge?boj=kongbab
 
 ### ❗기타 관심사
 
