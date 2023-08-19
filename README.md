@@ -1,19 +1,50 @@
-### About me 👋
+# 안녕하세요!
 
-<h1 align="center">Hi 👋, I'm 박장현,janghyeon park</h1>
-<h3 align="center">웹 개발자를 꿈꾸는 학생입니다</h3>
+### 소개
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=park-janghyeon" alt="park-janghyeon" /></a> </p>
+- 웹 백엔드 개발과 창업에 관심 있는 학생입니다.
+- 중앙대학교 산업보안학과 주전공, 소프트웨어벤처 융합전공, 중국어문학과 부전공.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 기술 스택
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 프로젝트 포트폴리오
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=park-janghyeon&show_icons=true&locale=en&layout=compact" alt="park-janghyeon" /></p>
+- [사내 ERP 웹페이지](notion://www.notion.so/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%81%ED%81%AC) - 풀스택으로 참여, 사내 ERP 웹페이지 외주 프로젝트. (2023.07.10~ing)
+- 생성형 AI 동화 공모전대회 - midjourney와 chatgpt 프롬프트 활용하여 동화 창작 공모전 참여.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=park-janghyeon&show_icons=true&locale=en" alt="park-janghyeon" /></p>
+### 🤲🏻 최근 단체 스터디 기록
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=park-janghyeon&" alt="park-janghyeon" /></p>
+- 중앙대학교 소프트웨어학부 동아리 Clug에서 진행한 스프링 게시판 클론 코딩.
+- 중앙대학교 소프트웨어학부 동아리 Clug에서 진행한 Linux 스터디.
+- 네이버 **<부스트코스 코칭스터디 10기 <Beyond AI Basic 2023> AI 기초 스터디**
+- 중앙대학교 산업보안학과 동아리에서 진행한 알고리즘 스터디
+
+### 📔 개인 스터디 기록 페이지 (노션)
+
+- 알고리즘 정리 노트 - 개인적으로 정리해놓은 알고리즘 퀴즈 풀이 기록입니다.
+- [노션 스터디 페이지](https://www.notion.so/45fd1505daff45ea94625e67e1008307?pvs=21) - 깃허브 보다 노션을 주로 이용하고 있습니다!
+
+### ☎️ 연락처
+
+- 이메일: [p572538@gmail.com](mailto:p572538@gmail.com)
+
+### 📝 백준 문제 풀이 기록
+
+http://mazassumnida.wtf/api/v2/generate_badge?boj=kongbab
+
+### ❗기타 관심사
+
+- 수영, 영화, 미술, 책, 외국어 그리고 여행에 관심이 많습니다 🙂
