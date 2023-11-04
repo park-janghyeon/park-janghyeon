@@ -1,9 +1,8 @@
-### 소개
-
+## 소개
 - 웹 백엔드 개발과 창업에 관심 있는 학생입니다.
 - 중앙대학교 산업보안학과 주전공, 소프트웨어벤처 융합전공, 중국어문학과 부전공.
 
-### 기술 스택
+## 기술 스택
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
@@ -22,9 +21,9 @@
 - [구구시스템](https://gugusystem.co.kr) - 풀스택(장고, 자바스크립트)으로 참여, 회사 소개 홈페이지 및 내부 ERP 시스템 외주 프로젝트. (23.07.10~ 유지보수중)
 
 ## 최근 단체 스터디 기록
-- 네이버 **<부스트코스 코칭스터디 10기 <Beyond AI Basic 2023> AI 기초 스터디 진행. (23.5.2-6.1)**
-- 스프링 게시판 클론 코딩 - 중앙대학교 소프트웨어학부 동아리 Clug에서 진행한 스프링 게시판 클론 코딩. (23년 1학기)
-- [Linux 스터디](https://www.notion.so/bf29e565feb04073b1c87d13925add3d?pvs=21) - 중앙대학교 소프트웨어학부 동아리 Clug에서 진행한 Linux 스터디.(23년 1학기)
+- 네이버 <부스트코스 코칭스터디 10기 <Beyond AI Basic 2023> - AI 기초 스터디 진행. (23.5.2-6.1)
+- 스프링 게시판 클론 코딩 - Clug에서 진행한 스프링 게시판 클론 코딩. (23년 1학기)
+- Linux 스터디- Clug에서 진행한 라즈베리파이 활용 Linux 스터디.(23년 1학기)
 
 ## 연락처
 - 이메일: [p572538@gmail.com](mailto:p572538@gmail.com)
