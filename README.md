@@ -5,7 +5,6 @@
 ## 기술 스택
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -25,12 +24,8 @@
 - 스프링 게시판 클론 코딩 - Clug에서 진행한 스프링 게시판 클론 코딩. (23년 1학기)
 - Linux 스터디- Clug에서 진행한 라즈베리파이 활용 Linux 스터디.(23년 1학기)
 
-## 연락처
-- 이메일: [p572538@gmail.com](mailto:p572538@gmail.com)
-
 ## 백준 문제 풀이 기록
 ![백준 문제 풀이 기록](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongbab)
-
 
 ## 기타 관심사
 - 수영, 영화, 미술, 책, 외국어 그리고 여행에 관심이 많습니다 🙂
